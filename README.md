@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!%20I'm%20Pedro!&height=100&section=header"/>
+</p>
+
+![](https://github.com/pedromeruge/profile_gif.gif)
+
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!%20I'm%20Pedro!%20🤓&height=100&section=header"/>
+  Contact me!💬
 </h1>
 
 <p align="center">
-  <img src="https://tenor.com/bVE2k.gif" alt="furios cat gif" width="250" />
+  <a href="https://www.linkedin.com/in/pedromeruge/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  <!-- To add other links in future...
+  -->
 </p>
 
 ## 🎓 About me
