@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!%20I'm%20Pedro!&height=100&section=header"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedromeruge/pedromeruge/master/profile_gif.gif" width="200">
+  <img src="https://raw.githubusercontent.com/pedromeruge/pedromeruge/master/profile_gif.gif" height="50">
 </p> 
 
 <h1 align="center">
@@ -29,18 +29,22 @@ I was born and raised in Braga, Portugal 🇵🇹, where I currently live and st
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeruge&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeruge&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/pedromeruge/pedromeruge/blob/output/github-contribution-grid-snake.svg)
-
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedromeruge/pedromeruge/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedromeruge/pedromeruge/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedromeruge/pedromeruge/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **pedromeruge/pedromeruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
