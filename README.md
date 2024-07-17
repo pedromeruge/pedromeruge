@@ -1,8 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello There! I'm Pedro! 🤓&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+
+## 🎓 About me
+
+I'm a bachelor's student at University of Minho, interested in Web Design and AI.
+
+I was born and raised in Braga, Portugal 🇵🇹, where I currently live and study. 
+
+🔭 I’m currently working on an app to recognize the state of a chess game from images
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeruge&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeruge&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/pedromeruge/pedromeruge/blob/output/github-contribution-grid-snake.svg)
+
+<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 <!--
 **pedromeruge/pedromeruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
