@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!%20I'm%20Pedro!&height=100&section=header"/>
 </p>
-
-![](https://github.com/pedromeruge/profile_gif.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedromeruge/pedromeruge/master/profile_gif.gif" width="200">
+</p> 
 
 <h1 align="center">
   Contact me!💬
