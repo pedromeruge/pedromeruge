@@ -18,6 +18,9 @@ I was born and raised in Braga, Portugal 🇵🇹, where I currently live and st
 
 🔭 I’m currently working on an app to recognize the state of a chess game from images
 
+![Portuguese](https://img.shields.io/badge/-🇵🇹%20Portuguese-red?style=for-the-badge)
+![English](https://img.shields.io/badge/-🇺🇸%20English-blue?style=for-the-badge)
+
 ## 📈 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeruge&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeruge&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,13 +52,11 @@ I was born and raised in Braga, Portugal 🇵🇹, where I currently live and st
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-## 🗣️ Languages I speak
-- Portuguese 🇵🇹
-- English 🇬🇧🇺🇸
 <!--
 **pedromeruge/pedromeruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
