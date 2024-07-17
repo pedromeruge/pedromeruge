@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello There! I'm Pedro! 🤓&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<p align="center">
+  <img height="50" src="https://tenor.com/bVE2k.gif"/>
+</p>
 
 ## 🎓 About me
 
@@ -12,6 +14,7 @@ I was born and raised in Braga, Portugal 🇵🇹, where I currently live and st
 
 🔭 I’m currently working on an app to recognize the state of a chess game from images
 
+## 📈 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromeruge&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeruge&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
