@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello There! I'm Pedro! 🤓&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!%20I'm%20Pedro!%20🤓&height=100&section=header"/>
+</h1>
 
 <p align="center">
-  <img height="50" src="https://tenor.com/bVE2k.gif"/>
+  <img src="https://tenor.com/bVE2k.gif" alt="furios cat gif" width="250" />
 </p>
 
 ## 🎓 About me
@@ -25,6 +25,10 @@ I was born and raised in Braga, Portugal 🇵🇹, where I currently live and st
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!--
