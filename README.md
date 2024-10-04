@@ -6,13 +6,13 @@
 </p> 
 
 [![LinkedIn badge](https://img.shields.io/badge/-pedromeruge-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedromeruge)
-  <!-- To add other links in future...
+  <!-- To add other links in the future...
   -->
 </p>
 
 ## 🎓 About me
 
-I'm a bachelor's student at University of Minho, interested in Web Design and AI.
+I'm a Master's student of Informatics Engineering at the University of Porto, interested in Web Design and AI.
 
 I was born and raised in Braga, Portugal 🇵🇹, where I currently live and study. 
 
