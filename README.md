@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Pedro!&height=100&section=header"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedromeruge/pedromeruge/master/profile_gif.gif" height="200">
-</p> 
 
 [![LinkedIn badge](https://img.shields.io/badge/-pedromeruge-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedromeruge)
   <!-- To add other links in the future...
@@ -12,11 +9,11 @@
 
 ## 🎓 About me
 
-I'm a Master's student of Informatics Engineering at the University of Porto, interested in Web Design and AI.
+I'm a Master's student of Informatics Engineering at the University of Porto, interested in UI/UX and AI.
 
-I was born and raised in Braga, Portugal 🇵🇹, where I currently live and study. 
+I was born and raised in Braga, Portugal 🇵🇹, where I currently live and study from. 
 
-🔭 I’m currently working on an app to recognize the state of a chess game from images
+🔭 I’m currently working on a mobile app to recognize the state of a chess game from images
 
 ![Portuguese](https://img.shields.io/badge/-🇵🇹%20Portuguese-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/-🇺🇸%20English-blue?style=for-the-badge)
