@@ -45,11 +45,6 @@ Languages I am fluent in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 ## 📫 Let's talk
 
 You can connect with me through:
@@ -58,6 +53,11 @@ You can connect with me through:
   <!-- To add other links in the future...
   -->
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!--
 **pedromeruge/pedromeruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
