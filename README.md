@@ -3,13 +3,13 @@
 </p>
 
 ## 🎓 About me
-I am interested in artificial intelligence (with focus on computer vision and deep learning), game development, and visual and interactive media.
+I am interested in artificial intelligence applications (with focus on computer vision), game development, and visual and interactive media.
 
-I recently graduated with a Master's degree in Informatics and Computing Engineering from FEUP.
+I recently graduated with a Master's degree in Informatics and Computing Engineering from FEUP. Throughout my academic journey, I have developed a broad foundation in software development, working across backend and frontend development, databases, APIs, and application deployment.
 
 I was born and raised in Braga, Portugal 🇵🇹, where I currently live. 
 
-🔭 Actively seeking a full-time role to apply my technical skills to impactful, real-world projects.
+🔭 Actively seeking a full-time software development role to apply my technical skills to impactful, real-world projects.
 
 Languages I am fluent in: 
 ![Portuguese](https://img.shields.io/badge/-🇵🇹%20Portuguese-red?style=for-the-badge)
